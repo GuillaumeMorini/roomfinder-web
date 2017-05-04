@@ -1,0 +1,85 @@
+.navbar-default {
+    background-color: #03A9F4;
+    border-color: #2196F3;
+}
+
+.navbar-default .navbar-brand {
+    color: #FAFAFA;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #FAFAFA;
+    background-color: transparent;
+}
+
+.warning {
+    color: red;
+}
+
+.background-custom {
+    background-color: #8BC34A;
+    color: #FAFAFA;
+    border: 1px solid #7CB342;
+}
+
+.chart {
+    height: 35vh;
+}
+
+#chatbox {
+    height: 25vh;
+    overflow: auto;
+}
+
+.media,
+.media-body {
+    overflow: unset;
+}
+
+.icon-title {
+    color: #2196F3;
+}
+
+.navbar-default .navbar-text {
+    color: #FAFAFA;
+}
+
+.navbar-default .navbar-nav>li>a,
+.navbar-default .navbar-text>a {
+    color: #FAFAFA;
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:active,
+.navbar-default .navbar-text>a:hover,
+.navbar-default .navbar-text>a:focus,
+.navbar-default .navbar-text>a:active {
+    color: #FAFAFA;
+}
+
+.navbar-brand {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+}
+
+.navbar-toggle {
+    z-index: 3;
+}
+
+a {}
+
+a:hover,
+a:active,
+a:focus {
+    text-decoration: underline !important;
+}
